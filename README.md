@@ -1,4 +1,4 @@
-# PHYSICAL-MODEL-GUIDED-DEEP-IMAGE-DERAINING
+# PHYSICAL MODEL GUIDED DEEP IMAGE DERAINING
 
 Honghe Zhu\*, [Cong Wang](https://supercong94.wixsite.com/supercong94)\*, Yajie Zhang, [Zhixun Su](http://faculty.dlut.edu.cn/ZhixunSu/zh_CN/index/759047/list/index.htm) †, Guohui Zhao 
 
