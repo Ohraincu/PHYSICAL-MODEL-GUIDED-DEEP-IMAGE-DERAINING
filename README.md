@@ -29,6 +29,7 @@ All training and testing experiments are in a folder called [code](https://githu
 ```
 $ git clone https://github.com/Ohraincu/PHYSICAL-MODEL-GUIDED-DEEP-IMAGE-DERAINING.git
 $ cd config
+```
 
 Thanks to [the code by Li et al.](https://xialipku.github.io/RESCAN/), our code is also adapted based on this.
 
