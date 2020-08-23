@@ -25,7 +25,6 @@ Please download the following datasets:
 
 ## Setup
 Please download this project through 'git' command.
-All training and testing experiments are in a folder called [code](https://github.com/Ohraincu/JDNet/tree/master/code):
 ```
 $ git clone https://github.com/Ohraincu/PHYSICAL-MODEL-GUIDED-DEEP-IMAGE-DERAINING.git
 $ cd config
@@ -38,7 +37,7 @@ After you download the above datasets, you can perform the following operations 
 ```
 $ python train.py
 ```  
-You can pause or start the training at any time because we can save the pre-trained models (named 'latest_net' or 'net_x_epoch') in due course.
+You can pause or start the training at any time because we can save the pre-trained models in due course.
 
 ## Testing
 ### Pre-trained Models
